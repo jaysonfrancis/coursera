@@ -1,7 +1,7 @@
 # Introduction to Big Data 
 
 ### Characteristics of Big Data<br>
-#####The Big Vs of Big Data<br>
+####The Big Vs of Big Data<br>
 
 - **Volume**: Refers to the vast amounts of data that is generated every second, minute, hour and day. 
     - Digital data will grow by a factor of 44, to around 35.2 ZB. 
@@ -31,3 +31,40 @@
 
 - **Value:** How does big data benefit you and your organization. Turning data into opportunities.
 
+---
+### Data Science, Getting Value out of Big Data
+
+
+Data science can be thought of as a basis for empirical research where data is used to induce information for observations.
+Data scientist are people who have passion for data, can relate problems to analytics, care about engineering solutions to solve problems, exhibit curiosity, and communicate well. 
+ 
+#### Skills related to Data Science
+- **Math and Statistics**
+    - Machine Learning, Statistical modeling, experiment design, Bayesian inference
+    - Supervised learning: Decision trees, random forest, logistic regression
+    - Unsupervised learning: Clustering, dimensionality reduction.
+    - Optimization: Gradient descent and variants.
+- **Programming & Databases**
+    - Computer science fundamentals, scripting languages (e.g python), statistcal computing packages (e.g, R), databases (e.g, SQL, MongoDB)
+    - Relational algebra
+    - Parallel processing, distributed computing
+    - Hadoop, Hive, Pig, MapReduce concepts
+- **Domain Knowledge & Soft Skills**
+    - Passionate about the business, curious about the data
+    - Influence without authority. 
+    - Hacker mindset, problem solving.
+    - Strategic, proactive, creative, innovative & collaborative.
+- **Communication & Visualization**
+    - Able to engage with senior management
+    - Storytelling skills, translate data-driven insights into decisions and actions.
+    - Visual art design, D3.js, Tableau, Flare
+    
+#### Five Components of Data Science
+- **People:** Refers to the data science team. (Engineers, Business)
+- **Purpose:** Refers to the challenges defined by your strategy. 
+- **Process:** Define a process to collaborite and communicate around. 
+    - Big Data Engineering, Computation Big Data Science (Advanced Analytics)
+    - Acquire Data --> Prepare Data --> Analyze Data --> Generate Reports --> Act
+- **Platforms:** Hadoop Framework, Scalability, Infrastructure, etc.
+- **Progammability:** Should be programmable through reusable interfaces.
+ 
