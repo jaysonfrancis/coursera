@@ -10,7 +10,7 @@
 - **Velocity**: _(Speed)_ Refers to the speed at which data is being generated and the pace at which data moves from one point to the next.
     - `Velocity = Speed - (Change of X / Change of T)`
     - Batch Processing: Collect Data, Clean, Feed in Chunks, Wait, Act.
-    - Realtime Processing: Instantly capture streaming data, feed realtime, process realtime, act.
+    - Realtime Processing: Instantly capture streaming data, feed realtime, process real-time, act.
     
 - **Variety**: _(Complexity)_ Increasing forms that data can come in such as text, images, voice and geospatial data, etc. 
     - Can be structured in several dimensions
@@ -18,14 +18,14 @@
         - **Media Variety:** Medium in which data gets delivered. (e.g, Audio speech vs transcripts)
         - **Semantic Variety:** How to interpret and operate on data. (e.g, age can be a number or terms like infant, juvenile, adult, etc.)
 
-> Some aditional _Vs_ to remember
+> Some additional _Vs_ to remember
  
 - **Veracity:** _(Quality)_ Refers to the biases, noise and abnormality in the data.
     - Data has no value if it's not accurate. ( Junk in = Junk out )
     - **Data Providence:** What information did data go through up until the moment it was used for an estimate?
     - The growing torrents of big data pushes it for fast solutions. This creates challenges of data quality, what has been collected, where it came from and how it was analyzed.
 
-- **Valnce:** _(Connectedness)_ Connectedness of big data in the form of graphs.
+- **Valence:** _(Connectedness)_ Connectedness of big data in the form of graphs.
     - The more connected the data is, the higher the valence. 
     - Valence challenges include more complex data exploration algorithms, modeling and prediction of valence changes, gorup event detections, emergent behavior analysis.
 
@@ -33,7 +33,6 @@
 
 ---
 ### Data Science, Getting Value out of Big Data
-
 
 Data science can be thought of as a basis for empirical research where data is used to induce information for observations.
 Data scientist are people who have passion for data, can relate problems to analytics, care about engineering solutions to solve problems, exhibit curiosity, and communicate well. 
@@ -45,7 +44,7 @@ Data scientist are people who have passion for data, can relate problems to anal
     - Unsupervised learning: Clustering, dimensionality reduction.
     - Optimization: Gradient descent and variants.
 - **Programming & Databases**
-    - Computer science fundamentals, scripting languages (e.g python), statistcal computing packages (e.g, R), databases (e.g, SQL, MongoDB)
+    - Computer science fundamentals, scripting languages (e.g python), statistical computing packages (e.g, R), databases (e.g, SQL, MongoDB)
     - Relational algebra
     - Parallel processing, distributed computing
     - Hadoop, Hive, Pig, MapReduce concepts
