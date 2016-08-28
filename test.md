@@ -8,6 +8,7 @@
         - Storage, Data Acuisition, Retrieval, Distribution, Processing
     - **Summary:** Volume is the dimension of big data related to it's size and it's exponential growth.
 
+<center>
 Test | Test
 --- | ---
 1000 Megabytes (MB) | 1GB 
@@ -15,7 +16,8 @@ Test | Test
 1000 Terabytes (TB) | 1PB
 1000 Petabytes (PB) | 1EB
 1000 Exabytes (EB)  | 1ZB
-            
+</center>
+
 - **Velocity**: Refers to the speed at which data is being generated and the pace at which data moves from one point to the next <br>
     - **Velocity** = ( Speed - (Change of X / Change of T) )
     - **Batch Processing:** Collect Data, Clean, Feed in Chunks, Wait, Act.
