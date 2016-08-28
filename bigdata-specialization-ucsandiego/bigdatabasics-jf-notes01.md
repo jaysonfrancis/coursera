@@ -1,4 +1,4 @@
-# Introduction to Big Data 
+# Big Data Basics 
 
 ### Characteristics of Big Data<br>
 ####The Big Vs of Big Data<br>
