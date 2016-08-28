@@ -21,12 +21,14 @@ When we create item sets, we want to specify a minimum coverage, or support. <br
     - Generate rules from these item sets. 
 
 -----
+
 ###### Review
 > 1. Association rule learning is a method for discovering interesting relations, (strong rules) between variables in large databases.
 > 2. Association rule mining is often called, **market basket analysis**
 > 3. Mining association rules has a computation complexity problem. In order to prune rules the algorithm generates **frequent item sets**
 > 4. In association rule learning, an item is considered to represent **attribute-value pair**
 > 5. Support in terms of Association Rule generation refers to **occurring frequency of the rule**
+
 -----
 
 
