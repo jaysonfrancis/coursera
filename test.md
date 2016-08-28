@@ -2,7 +2,8 @@
 
 ### Characteristics of Big Data
 #####The Big Vs of Big Data
-- **Volume**: Refers to the vast amounts of data that is generated every second, minute, hour and day. 
+
+- **Volume**: Refers to the vast amounts of data that is generated every second, minute, hour and day.
 > - Digital data will grow by a factor of 44, to around 35.2 ZB. 
 > - There are some challenges in massive volume, which include storage, data acquisition, retrieval, distribution and processing. 
 
@@ -14,7 +15,7 @@
 1000 Exabytes  (EB) | 1ZB
 ```
 
-- **Velocity**: _(Speed)_ Refers to the speed at which data is being generated and the pace at which data moves from one point to the next 
+- **Velocity**: _(Speed)_ Refers to the speed at which data is being generated and the pace at which data moves from one point to the next. 
 > `Velocity = Speed - (Change of X / Change of T)`
 > - Batch Processing: Collect Data, Clean, Feed in Chunks, Wait, Act.
 > - Realtime Processing: Instantly capture streaming data, feed realtime, process realtime, act.
