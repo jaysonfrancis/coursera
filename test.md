@@ -8,17 +8,13 @@
 > - There are some challenges in massive volume, which include<br>
 storage, data acquisition, retrieval, distribution and processing. 
 
-<center>
-
-Test | Test
---- | ---
+```
 1000 Megabytes (MB) | 1GB 
 1000 Gigabytes (GB) | 1TB
 1000 Terabytes (TB) | 1PB
 1000 Petabytes (PB) | 1EB
-1000 Exabytes (EB)  | 1ZB
-
-</center>
+1000 Exabytes  (EB) | 1ZB
+```
 
 - **Velocity**: Refers to the speed at which data is being generated and the pace at which data moves from one point to the next <br>
 
@@ -28,13 +24,10 @@ Test | Test
     
 - **Variety**: Increasing forms that data can come in such as text, images, voice and geospatial data, etc. <br>
 
-##### Additional V's 
+---
+ Some aditional _Vs_ to remember;
 - **Veracity**<br>
 - **Valnce**<br>
 - **Value**<br>
 
-
-<test1 style="fontcolor:red">hhaorhklasdalkdlaksjdkasldjai</test1>
-
-&#x1F34E;
 
