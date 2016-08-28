@@ -26,7 +26,7 @@ Test | Test
     
     
 - **Variety**: Increasing forms that data can come in such as text, images, voice and geospatial data, etc. <br>
---- 
+
 ##### Additional V's 
 - **Veracity**<br>
 - **Valnce**<br>
