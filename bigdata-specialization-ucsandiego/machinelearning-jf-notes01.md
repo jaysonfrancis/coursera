@@ -99,5 +99,6 @@ K-Means Pros & Cons
 > 3. Clustering is, unsupervised type of learning.
 > 4. K-means clustering results in what kind of clusters? Deterministic.
 > 5. Clustering results can vary significantly based on initial choice of seed. 
+
 -----
 
