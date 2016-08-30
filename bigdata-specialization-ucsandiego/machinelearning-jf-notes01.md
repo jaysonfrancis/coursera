@@ -1,5 +1,7 @@
 # Machine Learning
 
+![pic](img/machinelearning101.png)
+>Source: Deutsche Bank Quantitative Strategy 
 
 ## Association Rule Learning
 
@@ -103,4 +105,5 @@ K-Means Pros & Cons
 > 5. Clustering results can vary significantly based on initial choice of seed. 
 
 -----
+
 
