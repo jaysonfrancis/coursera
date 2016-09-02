@@ -10,5 +10,5 @@
 - [Big data Integration Pt. 2](bigdataintegration-jf-notes02.md) - (Dataflow Approach, Big Data Pipeline, Data Transformations)
 - [Machine Learning](machinelearning-jf-notes01.md) - (Association, Clustering, K-Means)
 
-##### Example Notebooks
+##### Hands-on Notebooks
 - [Spark & Hadoop Wordcount (Pyspark)](notebooks/spark-example-wc.ipynb)
