@@ -37,4 +37,35 @@ during the integration process.
     - **Pay-as-you-go-model** - Only integrate sources that are needed when needed. 
     - Paper - [Using Probabilistic Information in Data Integration](http://www.vldb.org/conf/1997/P216.PDF)
     
+----
+
+###### Integration for Multichannel Analytics
+
+- **Customer Analytics** - Process and technologies that give organizations the customer insights necessary to deliver offers
+that are anticipated, relevant and timely.
+    - Is our product launch going well?
+    - Is there an emerging product issue?
+    - Where should the product team focus its development dollars?
     
+- **Data Fusion** - Find the values of data items from a source. 
+
+- **Source Selection**
+    - The Problem
+        - Choose only useful sources
+        - Adding sources first improves integration accuracy then reduces it
+    - The Solution
+        - Order canidate sources based on the measure of "gooodness"
+        - Add sources until the marginal benefit is less than the marginal cost
+        - Current techniques scale well.
+    
+    
+-----
+###### Review
+> 1. What is the main problem wih big data information integration? Many sources.
+> 2. What would be the two possible solutions associated with "big data" information integration? Pay-as-you-go Model, Probabilistic Schema Mapping.
+> 3. What are mediated schemas? A Schema created from integrating two or more schemas.
+> 4. In attribute grouping, how would one evaluate if two attributes should go together? Similarity of Attributes, Probability of Two Attributes Co-occurring.
+> 5. What is a data item? Data that represents an aspect of a real-world entity.
+> 6. What is data fusion? Extracting the true data of a data item.
+> 7. What is the potetnail problem of having too many data sources? Too many data values.
+-----
