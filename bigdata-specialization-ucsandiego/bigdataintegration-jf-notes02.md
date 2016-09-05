@@ -109,8 +109,6 @@
 
 > [notebooks/spark-example-wc.ipynb - Spark wordcount example using pyspark](notebooks/spark-example-wc.ipynb)
 
-
-
 -----
 ###### Review
 > 1. What is data parallelism? Running the same function simultaneously for the partitions of a data set on multiple cores
@@ -121,7 +119,7 @@
 > 6. Which of the following scenarios is an aggregation operations? Counting the total number of data, Average the total number of data, etc.
 > 7. What is K-means clustering? Group samples into K clusters.
 > 8. What are the layers of Spark? SparkSQL, Spark Streaming, GraphX, Spark Core, MLib. 
-> 9. What is in-memory processing? Writing data to memory between pipeline steps. 
+> 9. What is in-memory processing? Writing data to memory between pipeline steps.
 -----
 
 
