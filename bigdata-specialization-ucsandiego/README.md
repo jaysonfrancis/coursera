@@ -9,6 +9,7 @@
 - [Big Data Integration Pt. 1](bigdataintegration-jf-notes01.md) - (Information Integration, Multichannel Analytics, Integrated Views)
 - [Big data Integration Pt. 2](bigdataintegration-jf-notes02.md) - (Dataflow Approach, Big Data Pipeline, Data Transformations)
 - [Machine Learning](machinelearning-jf-notes01.md) - (Association, Clustering, K-Means)
+- Graph Analytics
 
 ##### Hands-on Notebooks
 - [Spark & Hadoop Wordcount (Pyspark)](notebooks/spark-example-wc.ipynb)
