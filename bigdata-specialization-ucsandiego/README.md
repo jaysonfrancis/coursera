@@ -13,3 +13,4 @@
 
 ##### Hands-on Notebooks
 - [Spark & Hadoop Wordcount (Pyspark)](notebooks/spark-example-wc.ipynb)
+- [Spark MLlib example using Kmeans Clustering and RandomRDDs](notebooks/spark-example-kmeans.ipynb)

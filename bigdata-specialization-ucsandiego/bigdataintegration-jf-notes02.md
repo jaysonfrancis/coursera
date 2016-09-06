@@ -108,6 +108,7 @@
     - **Cluster Manager;** (YARN/Standalone), Provision, Restart Workers
 
 > [notebooks/spark-example-wc.ipynb - Spark wordcount example using pyspark](notebooks/spark-example-wc.ipynb)
+> [notebooks/spark-example-keamsn.ipynb - Spark mllib example using kmeans and RandomRDDs](notebooks/spark-example-kmeans.ipynb)
 
 -----
 ###### Review
