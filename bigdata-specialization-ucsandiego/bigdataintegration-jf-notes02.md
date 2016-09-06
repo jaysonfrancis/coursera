@@ -52,7 +52,6 @@
     - Data Integration and Processing
     - Data Management and Storage
 
-
 - **The Integration and Processing Layer**
   - Evaluation Criteria on developing a big-data pipeline system
     - Execution Model (Batch, Streaming, Interactive Computing)
@@ -60,30 +59,30 @@
     - Scalability 
     - Programming Language Support 
     - Fault Tolerance Mechanics 
-    
- - **Review of some Big Data Processing Systems**
-   - Hadoop MapReduce; 
-     - Batch execution model. No in-memory processing. Higher latency, less scalable execution.
-     - Java Programming Language. Data Replication is the primary method for fault tolerance.
-   - Apache Spark
-     - Built to support iterative processing efficiently using a in-memory structure called RDDs
-     - Batch & stream processing using disk or memory storage. Low-latency. Scala, Python, Java, R Programming Language.
-   - Flink
-     - Batch and streaming processing using disk or memory storage. Lower latency framework. 
-     - Supports APIs in Java and Scala. Biggest advantage comes from it's optimizer to pick the best pattern in execution strategy
-   - Beam (Google)
-     - Relatively new system for batch and stream processing. Low-latency. Highly scalable.
-     - Java and Scala Programming Language. Python SDK is in the works.
-   - Apache Storm
-     - Designed for stream processing in real time with very low-latency. 
-     - It defined input stream interface abstraction called 'spouts', and computation abstractions called 'bolts'
+
+- **Review of some Big Data Processing Systems**
+  - Hadoop MapReduce; 
+    - Batch execution model. No in-memory processing. Higher latency, less scalable execution.
+    - Java Programming Language. Data Replication is the primary method for fault tolerance.
+  - Apache Spark
+    - Built to support iterative processing efficiently using a in-memory structure called RDDs
+    - Batch & stream processing using disk or memory storage. Low-latency. Scala, Python, Java, R Programming Language.
+  - Flink
+    - Batch and streaming processing using disk or memory storage. Lower latency framework. 
+    - Supports APIs in Java and Scala. Biggest advantage comes from it's optimizer to pick the best pattern in execution strategy
+  - Beam (Google)
+    - Relatively new system for batch and stream processing. Low-latency. Highly scalable.
+    - Java and Scala Programming Language. Python SDK is in the works.
+  - Apache Storm
+    - Designed for stream processing in real time with very low-latency. 
+    - It defined input stream interface abstraction called 'spouts', and computation abstractions called 'bolts'
  
- - **Introduction to Apace Spark**
-   - Hadoop MapReduce Shortcomings
-     - Only for Map and Reduce based computations. (e.g no Join, Filter, GroupBy functionality for specific datasets)
-     - Relies on reading data from HDFS. (Bottleneck, I/O reading data from disks).  
-     - Native support for Java only. 
-     - No interactive shell support. No support for streaming data processing. 
+- **Introduction to Apace Spark**
+  - Hadoop MapReduce Shortcomings
+   - Only for Map and Reduce based computations. (e.g no Join, Filter, GroupBy functionality for specific datasets)
+   - Relies on reading data from HDFS. (Bottleneck, I/O reading data from disks).  
+   - Native support for Java only. 
+   - No interactive shell support. No support for streaming data processing. 
    
 - **Basic of Data Analysis with Spark**
   - Expressive programming model. In-memory processing. Cache and process data in memory, making it faster for iterative applications (10-100x speedup)
@@ -119,8 +118,9 @@
 > 5. What is the lambda architecture? A type of hybrid data processing architecture
 > 6. Which of the following scenarios is an aggregation operations? Counting the total number of data, Average the total number of data, etc.
 > 7. What is K-means clustering? Group samples into K clusters.
-> 8. What are the layers of Spark? SparkSQL, Spark Streaming, GraphX, Spark Core, MLib. 
+> 8. What are the layers of Spark? SparkSQL, Spark Streaming, GraphX, Spark Core, MLib.
 > 9. What is in-memory processing? Writing data to memory between pipeline steps.
+
 -----
 
 
