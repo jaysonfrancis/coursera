@@ -106,8 +106,11 @@
     - **Worker Node;** Spark Executor (JVM) (Map, Reduce, etc.), Many Big Data Stores and Tools (Bring computation to data)
     - **Cluster Manager;** (YARN/Standalone), Provision, Restart Workers
 
-> [notebooks/spark-example-wc.ipynb - Spark wordcount example using pyspark](notebooks/spark-example-wc.ipynb)
-> [notebooks/spark-example-keamsn.ipynb - Spark mllib example using kmeans and RandomRDDs](notebooks/spark-example-kmeans.ipynb)
+> [notebooks/spark-example-sparksql.ipynb - Exploring SparkSQL and Spark Dataframes](notebooks/spark-example-sparksql.ipynb)  
+> [notebooks/spark-example-wc.ipynb - Spark wordcount example using pyspark](notebooks/spark-example-wc.ipynb)  
+> [notebooks/spark-example-keamsn.ipynb - Spark mllib example using kmeans and RandomRDDs](notebooks/spark-example-kmeans.ipynb)  
+> [notebooks/spark-example-streaming.ipynb - Analzying Sensor Data with Spark Streaming](notebooks/spark-example-streaming.ipynb)  
+
 
 -----
 ###### Review
