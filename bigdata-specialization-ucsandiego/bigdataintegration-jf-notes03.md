@@ -22,13 +22,13 @@
   
 - Sample Transformations
   - ```map``` - Apply function to each element of RDD (one-to-one transformation) (key-value pair list)
-  - ```python
+   ```python
     def lower(line):
       return line.lower()
     lower_text_RDD = text_RDD.map(lower)
     ```
   - ```flatMap``` - Map then flatten output. Returns an RDD with an aggregate of all the results.
-  - ```python
+  ```python
     def split_words(line):
       return line.split()
       
@@ -36,7 +36,7 @@
     words_RDD.collect()
     ```
   - ```filter``` - Keep only elements where the function is true. Subset of data, or cleaning. Returns elements where the function is true.
-  - ```python
+  ```python
     def starts_with_a(word):
       return word.lower().startswith("a")
     words_RDD.filter(starts_with_a).collect()
@@ -66,7 +66,7 @@
     - It can connect to many data sources and provide APIs to convert the query results to RDDs in Python, Scala, and Java programs
     - Enables business intelligence tools to connect to Spark using standard connection protocols like JDBC, ODBC.
     - Also provides APIs to convert the query data into DataFrames to hold distributed data.
-    - ```python
+    ```python
       from pyspark.sql import SQLContext
       sqlContext = SQLContext(sc)
       
