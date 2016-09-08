@@ -13,11 +13,11 @@
 - Graph Analytics
 
 ##### Hands-on Notebooks
-- [Exploring SparkSQL and Spark Dataframes](notebooks/spark-example-sparksql.ipynb)
+- [Analzying Tweets with Spark](notebooks/spark-example-tweets.ipynb)   
+- [Exploring SparkSQL and Spark Dataframes](notebooks/spark-example-sparksql.ipynb)  
 - [Spark & Hadoop Wordcount (Pyspark)](notebooks/spark-example-wc.ipynb)
 - [Spark MLlib example using Kmeans Clustering and RandomRDDs](notebooks/spark-example-kmeans.ipynb)  
-- [notebooks/spark-example-streaming.ipynb - Analzying Sensor Data with Spark Streaming](notebooks/spark-example-streaming.ipynb)  
-
+- [Analzying Sensor Data with Spark Streaming](notebooks/spark-example-streaming.ipynb)  
 
 ---- 
 

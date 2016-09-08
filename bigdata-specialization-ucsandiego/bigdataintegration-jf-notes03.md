@@ -120,6 +120,7 @@
 
 ###### Hands-on: Data Processing in Spark
 
+> [notebooks/spark-example-tweets.ipynb - Analzying Tweets with Spark](notebooks/spark-example-tweets.ipynb)  
 > [notebooks/spark-example-sparksql.ipynb - Exploring SparkSQL and Spark Dataframes](notebooks/spark-example-sparksql.ipynb)  
 > [notebooks/spark-example-wc.ipynb - Spark wordcount example using pyspark](notebooks/spark-example-wc.ipynb)  
 > [notebooks/spark-example-keamsn.ipynb - Spark mllib example using kmeans and RandomRDDs](notebooks/spark-example-kmeans.ipynb)  
