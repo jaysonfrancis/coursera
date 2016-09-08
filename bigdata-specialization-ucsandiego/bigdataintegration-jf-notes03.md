@@ -108,7 +108,7 @@
   clusters = Kmeans.train(parsedData, k=3)
   
   print(clusters.centers)
-  
+  ```
 - **Spark GraphX** - Apache Spark's Application Programming Interface for graphs and graph-parallel computation. Uses a property graph model.
   - Property Graph Model; Both nodes and edges in a graph can have attributes and values.
   - Node properties are stored in a vertex table.
