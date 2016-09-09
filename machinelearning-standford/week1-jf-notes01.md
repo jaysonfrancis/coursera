@@ -21,22 +21,28 @@
 
 #### Linear Regression with One Variable ####
 
-- Model Representation:
-    - Generate a hypothesis, **(h)**. This is considered the function the learning algorithm generates. (i.e, a line)
-    - Univariate Linear Regression - One Variable
+**Model Representation:** Generate a hypothesis, **(h)**. - This is considered the function the learning algorithm generates. (i.e, a line).  
+> Univariate Linear Regression - One Variable
     
-> Notion used in this class:  
+> Notation used in this class:  
 > ``` m = number of training examples ```  
 > ``` x = "input" variable / features ```  
 > ``` y = "output" variable / "target variable ```  
 > ``` (x,y) = one training sample ```
     
-- Cost Function: Squared Error Function
+**Cost Function:** Squared Error Function, or Mean squared Error  
+    - Measure the accuracy of our hypothesis function by using a cost function.  
+    - This takes an average of all the results of the hypothesis with inputs from x's compared to the actual output y's.  
     - Optimization objective for Linear Regression is to minimize J()  
+    
+    
 ![cost function](img/week1-costfunction.png)
     
-    - Contour Plots are sometimes used to visualize the squared error function
+Contour Plots are sometimes used to visualize the squared error function  
+
 ![contour](img/week1-contour.png)
 
+
+- Gradient Descent
     
 #### Linear Algebra Review ####
