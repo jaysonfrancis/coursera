@@ -34,7 +34,7 @@
     - Measure the accuracy of our hypothesis function by using a cost function.  
     - This takes an average of all the results of the hypothesis with inputs from x's compared to the actual output y's.  
     - Optimization objective for Linear Regression is to minimize J()  
-    
+    - A contour image for the cost function will always look like a bowl shaped, "convex function"
     
 ![cost function](img/week1-costfunction.png)
     
@@ -44,5 +44,20 @@ Contour Plots are sometimes used to visualize the squared error function
 
 
 - Gradient Descent
-    
-#### Linear Algebra Review ####
+
+![aglo](img/week1-gradientalgo.png)
+
+Alpha, is the learning rate. It controls the 'steps'. 
+- If alpha is too **small**, gradient descent can be slow.
+- If alpha is too **large**, can over shoot the minimum. It may fail to converge, or even diverge.
+
+This is an algorithm to minimize the cost function (J). It utilizes simultaneous updates of variables for convergence. 
+  
+![contour](img/week1-gradientgraph.png)
+
+![algos](img/week1-linear.png)
+
+
+
+
+##### Linear Algebra Review ####
