@@ -23,7 +23,8 @@ medical informatics, audio, database mining, and other areas.
 - (iii) Best practices in machine learning (bias/variance theory; innovation process in machine learning and AI).   
 
 ##### Repository Contents
-- Introduction, Linear Regression with One Variable, Linear Algebra Review (Coming Soon)
+- [Introduction, Linear Regression with One Variable, Linear Algebra Review (Coming Soon)](week1-jf-notes01.md)
+- [Linear Regression with Multiple Variables, Multivariate Linear Regression](week2-jf-notes01.md)
 
 ##### Hands-on Notebooks
 

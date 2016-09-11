@@ -56,8 +56,3 @@ This is an algorithm to minimize the cost function (J). It utilizes simultaneous
 ![contour](img/week1-gradientgraph.png)
 
 ![algos](img/week1-linear.png)
-
-
-
-
-##### Linear Algebra Review ####
