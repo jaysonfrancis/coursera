@@ -9,6 +9,20 @@ use Octave or MATLAB.
 
 #### Linear Regression with Multiple Variables ####
 
+- Multiple features (variables)
+  - **Multivariate linear regression**  
+  ![mvlg](img/week2-mvlg.png)
+  - **Gradient Descent for Multiple Variables**  
+  ![cf](img/week2-costfunction.png)  
+  ![gdalgo](img/week2-gdalgo.png)  
+  
+  
+  
+  
+  
+  
+  
 
-#### Octave/Matlab Tutorial ####
+
+#### Computing Parameters Analytically ####
 
