@@ -13,7 +13,9 @@ sigma = zeros(1, size(X, 2));
 % ====================== YOUR CODE HERE ======================
 % Instructions: First, for each feature dimension, compute the mean
 %               of the feature and subtract it from the dataset,
-%               storing the mean value in mu. Next, compute the 
+%               storing the mean value in mu. 
+
+%               Next, compute the 
 %               standard deviation of each feature and divide
 %               each feature by it's standard deviation, storing
 %               the standard deviation in sigma. 
@@ -26,14 +28,19 @@ sigma = zeros(1, size(X, 2));
 % Hint: You might find the 'mean' and 'std' functions useful.
 %       
 
+% mean
+% mu
 
-
-
-
-
-
-
-
+for i = 1:size(X,2)
+    mu(i) = mean(X(:,i)); % Mean value for the feature, i
+    
+    X_norm(:,i) = X_norm(:,i) - mu(i); % Subtract the mean value of each feature from the dataset
+    
+    sigma(i) = std(X(:,i));  % Get the standard deviation
+    
+    X_norm(:,i) = X_norm(:,i) / sigma(i); % Divide the feature values by their respective std 
+    
+end
 % ============================================================
 
 end

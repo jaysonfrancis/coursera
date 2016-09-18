@@ -14,6 +14,12 @@ J = 0;
 %               You should set J to the cost.
 
 
+% H = (X*theta);        
+% S = sum((H-y) .^ 2);
+% J = S / (2*m);
+
+% One line
+J = sum((X*theta - y) .^ 2)/(2*m);
 
 
 

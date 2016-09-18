@@ -13,9 +13,11 @@ J = 0;
 % Instructions: Compute the cost of a particular choice of theta
 %               You should set J to the cost.
 
+% Vecorize method of operations
 
-
-
+H = (X*theta);        
+S = sum((H-y) .^ 2);
+J = S / (2*m);
 
 % =========================================================================
 

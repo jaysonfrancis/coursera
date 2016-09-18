@@ -19,7 +19,9 @@ for iter = 1:num_iters
 
 
 
-
+    gradJ = 1/(2*m) * 2 * (X' * X * theta - X' * y);
+    
+    theta = theta - alpha * gradJ;
 
 
 

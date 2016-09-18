@@ -12,7 +12,8 @@ theta = zeros(size(X, 2), 1);
 
 % ---------------------- Sample Solution ----------------------
 
-
+% Analytically solve for optimal value. One step. 
+theta = pinv(X' * X) * X' * y;
 
 
 % -------------------------------------------------------------
