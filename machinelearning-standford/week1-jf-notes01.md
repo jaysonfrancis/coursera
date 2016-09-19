@@ -7,7 +7,9 @@
   
 *"the field of study that gives computers the ability to learn without being explicitly programmed. - Arthur Samuel"* 
 
-#### Welcome ####
+Linear Regression with One Variable
+---
+
 
 | Learning  Algorithm      | Types           |  
 | -------------            |:-------------:|
@@ -18,8 +20,7 @@
 - ***Classification*** > Predict a **discrete** valued output, (i.e; 0 or 1). Map input variables into discrete categories.
 - ***Clustering*** > Identify **relationships** or **groups** (derive a structure) from the given data. (Note: There is no feedback based on the prediction results)
 
-
-#### Linear Regression with One Variable ####
+---
 
 **Model Representation:** Generate a hypothesis, **(h)**. - This is considered the function the learning algorithm generates. (i.e, a line).  
 > Univariate Linear Regression - One Variable
