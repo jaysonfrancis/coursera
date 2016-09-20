@@ -19,9 +19,20 @@ Logistic  Regression & Regularization
 
 **Logistic Regression Model**
 
----
-> ![logistic](img/week3-logistic.png)
----
+- Optimization Objective (Cost function)
+  - Choosing the best parameters for _theta_.
+  - Algorithms Include;
+    - Gradient descent
+    - Conjugate gradient
+    - BFGS
+    - L-BGS
+  - Advantages - No need to manually pick alpha, often faster than gradient descent.
+  - Disadvantages - More complex
+  
+> ![logistic](img/week3-logistic.png)  
+> ![cost](img/week3-cost.png)  
+> ![gradient](img/week3-gradientalgo.png)  
+  
 
 **Multiclass Classification**
 
