@@ -36,6 +36,11 @@ Logistic  Regression & Regularization
 
 **Multiclass Classification**
 
+- One-vs-all (one-vs-rest) classification
+    - (e.g; email tagging: work, friends, family, hobby) (4 classes)
+    - Turn into multiple sets of classification problems.
+    - To make a new prediction, run all of the generated classifiers on the inputs, and select the class that is maximized. 
+
 **Regularization**
 
 
