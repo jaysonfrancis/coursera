@@ -17,6 +17,8 @@ Logistic  Regression & Regularization
         - Asymptotes at zero and one.  
     - Construct **decision boundaries**, which are a set of properties that classify what an input will produce.  
 
+---
+
 **Logistic Regression Model**
 
 - Optimization Objective (Cost function)
@@ -32,7 +34,8 @@ Logistic  Regression & Regularization
 > ![logistic](img/week3-logistic.png)  
 > ![cost](img/week3-cost.png)  
 > ![gradient](img/week3-gradientalgo.png)  
-  
+
+---
 
 **Multiclass Classification**
 
@@ -41,6 +44,30 @@ Logistic  Regression & Regularization
     - Turn into multiple sets of classification problems.
     - To make a new prediction, run all of the generated classifiers on the inputs, and select the class that is maximized. 
 
+---
+
 **Regularization**
 
+- **Solving the Problem of Overfitting.**
+    - "Underfitting" --> "High bias, strong preconception"
+    - "Overfitting" --> "High variance"
+    - If we have too many features, the learned hypothesis may fit the training set very well. (Cost function close to zero), but fail to generalize to new examples, (predict on new examples)
+
+- **Addressing overfitting**
+    - Reduce the number of features.
+      - Manually select which features to keep.
+      - Model selection algorithm
+    - Regularization
+      - Keep all the features, but reduce magnitude/values of parameters theta.
+      - Works well when we have a lot of features, each of which contributes a bit to predicting y. 
+      
+- **Regularization Cost Function**
+    - Small values for the theta parameters, creating a "simpler" hypothesis, which corresponds smoother curves and less prone to overfitting
+    ![regcost](img/week3-regularization-cost-function.png)
+    
+    
+---
+Octave - Implementing logistic regression on two different datasets. [here](assignments/machine-learning-ex2)
+
+    
 
