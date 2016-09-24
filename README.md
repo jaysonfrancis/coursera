@@ -6,4 +6,4 @@
 
 - [Big Data Specialization, UC San Diego.](bigdata-specialization-ucsandiego/)  
 
-- [Machine Learning, Standford](machinelearning-standford)
+- [Machine Learning, Stanford](machinelearning-stanford)

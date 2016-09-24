@@ -1,7 +1,7 @@
 ### Data Science: Machine Learning
 ###### Stanford University (Andrew Ng)
 
-[Link - Machine Learning - Standford, Coursera](https://www.coursera.org/learn/machine-learning/)
+[Link - Machine Learning - Stanford, Coursera](https://www.coursera.org/learn/machine-learning/)
 
 >***About this course:*** Machine learning is the science of getting computers to act without being explicitly programmed. 
 In the past decade, machine learning has given us self-driving cars, practical speech recognition, effective web search, 
