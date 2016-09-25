@@ -26,6 +26,7 @@ medical informatics, audio, database mining, and other areas.
 - [Introduction, Linear Regression with One Variable, Linear Algebra Review](week1-jf-notes01.md)
 - [Linear Regression with Multiple Variables, Multivariate Linear Regression](week2-jf-notes01.md)
 - [Logistic regression, Classification, & Regularization](week3-jf-notes01.md)
+- [Neural Networks Representation, Architecture - In Progress](week4-jf-notes01.md) 
 
 ##### Hands-on Notebooks
 
