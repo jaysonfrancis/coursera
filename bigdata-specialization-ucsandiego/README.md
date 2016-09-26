@@ -26,7 +26,7 @@
 
 > ######Misc - My Certificates
 > [Introduction to Big Data](https://www.coursera.org/account/accomplishments/certificate/7MLTTLBNASHA)  
-> [Big Data Modeling & Management Systems](https://www.coursera.org/account/accomplishments/certificate/AL5M3GHSPYCN)  
-> [Big Data Integration & Processing](https://www.coursera.org/account/accomplishments/certificate/FVSMHU4SPNW4)
+> [Big Data Modeling & Management Systems](https://www.coursera.org/account/accomplishments/certificate/AL5M3GHSPYCN)   
+> [Big Data Integration & Processing](https://www.coursera.org/account/accomplishments/certificate/FVSMHU4SPNW4)  
 > [Machine Learning with Big Data](https://www.coursera.org/account/accomplishments/certificate/QTLSBACR89K2)  
 > [Graph Analytics](https://www.coursera.org/account/accomplishments/certificate/QTLSBACR89K2)  
