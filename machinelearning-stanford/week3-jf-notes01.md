@@ -63,11 +63,12 @@ Logistic  Regression & Regularization
       
 - **Regularization Cost Function**
     - Small values for the theta parameters, creating a "simpler" hypothesis, which corresponds smoother curves and less prone to overfitting
-    ![regcost](img/week3-regularization-cost-function.png)
+    ![regcost](img/week3-regularization-cost-function.png)  
     
     
+
 ---
-Octave - Implementing logistic regression on two different datasets. [here](assignments/machine-learning-ex2)
 
-    
+[exercise2: Octave - Implementing Logistic regression, using regularization](assignments/machine-learning-ex2)  
 
+---

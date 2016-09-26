@@ -24,5 +24,12 @@ Neural Network Model Representation
     - Neural network architecture: How the different neurons are connected to each other.
   
     ![neuron](img/week4-neuralnetwork.png)
-    
+
+---  
+
+[exercise3: Octave - Logistic regression and neural networks for handwritten recognition](assignments/machine-learning-ex3)  
+
+---
+
+
     

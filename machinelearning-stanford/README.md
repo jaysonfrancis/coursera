@@ -32,5 +32,6 @@ medical informatics, audio, database mining, and other areas.
 
 [exercise1: Octave - Linear regression, Gradient Descent, Normal Equation, etc.](assignments/machine-learning-ex1)  
 [exercise2: Octave - Implementing Logistic regression, using regularization](assignments/machine-learning-ex2)
+[exercise3: Octave - Logistic regression and neural networks for handwritten recognition](assignments/machine-learning-ex3)  
 
 ---

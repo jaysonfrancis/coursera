@@ -57,6 +57,6 @@ Linear Regression with Multiple Variables
     
 ---
 
-View octave assignment and hands on examples, [here](assignments/machine-learning-ex1)
+[exercise1: Octave - Linear regression, Gradient Descent, Normal Equation, etc.](assignments/machine-learning-ex1)  
 
-
+---
