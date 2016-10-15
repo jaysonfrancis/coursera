@@ -10,7 +10,5 @@
 
 ---
 ##### Backpropagation
-1. Apply forward proporgation; Allows us to compute the activation values.
-2. Compute back proporgation; In order to compute the derivatives. Compute ```delta``` term --> "error" in the activation of node ```j``` in each layer, ```l```
-
-
+1. Apply forward propagation; Allows us to compute the activation values.
+2. Compute back propagation; In order to compute the derivatives. Compute ```delta``` term --> "error" in the activation of node ```j``` in each layer, ```l```
