@@ -8,6 +8,7 @@
 
 ##### Repository Contents
 - [Big Data Basics](bigdatabasics-jf-notes01.md) - (Vs of Big Data, Five Components of Data Science)
+- [Big Data Modelling and Management](bigdatamodelling-jf-notes01.md) (Introduction, Big Data Modelling, Working With Big Data, Big Data Management)
 - [Big Data Integration Pt. 1](bigdataintegration-jf-notes01.md) - (Information Integration, Multichannel Analytics, Integrated Views)
 - [Big Data Integration Pt. 2](bigdataintegration-jf-notes02.md) - (Dataflow Approach, Big Data Pipeline, Data Transformations)
 - [Big Data Analytics using Spark](bigdataintegration-jf-notes03.md) - (Programming in Spark, The Spark Ecosystem, Hands-on notes)
@@ -22,7 +23,7 @@
 - [Spark MLlib example using Kmeans Clustering and RandomRDDs](notebooks/spark-example-kmeans.ipynb)  
 - [Analzying Sensor Data with Spark Streaming](notebooks/spark-example-streaming.ipynb)  
 
----- 
+----
 
 > #### Misc - My Certificates
 > [Introduction to Big Data](https://www.coursera.org/account/accomplishments/certificate/7MLTTLBNASHA)  

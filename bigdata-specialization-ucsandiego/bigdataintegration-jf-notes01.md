@@ -1,12 +1,41 @@
 # Big Data Integration & Processing
 
+#### Requirements for a Big Data System
+
+1. Support Big Data Operations:
+   - Split volumes of data
+   - Fast access to data
+   - Distribute computation to the nodes
+2. Handle Fault tolerance
+   - Recover files when needed
+   - Programmable replication of data partitions
+3. Allow for Scaling Out(*Horizontal Scaling* )
+4. Optimized and extensible for many data types(Document, Table, Graph, Multimedia, etc..)
+5. Enable Streaming and Batch Processing
+   - Low latency processing of streaming data.
+   - Accurate processing of all the data.
+
+
+
+### Data Retrieval
+
+Data Retrieval is the way in which the desired data is specified and retrieved from the given data store. This is typically done through a query language which allows you to specify the data items you need.
+
+A **Query Language** is declarative meaning you specify what you need rather than how to retrieve it. (Ex: SQL)
+
+In contrast, a **Database Programming Language** is procedural, high level programming languages that embed query operations(Ex: PLSQL)
+
+
+
+
+
 ## Information Integration
 
 ###### Overview
 Refers to the problem of using many different information sources to accomplish a task.<br>
 
 - **Integrated View** - A relation that is derived by querying two different data sources and combining their results. (A relation computed by other relations)
- 
+
 To populate the integrated view, we need to go through a step called **schema mapping**
 
 - **Mapping** - Establish correspondence between the attributes of the view, (target relation) and that of the source relations.
@@ -19,6 +48,7 @@ To populate the integrated view, we need to go through a step called **schema ma
         - If it is precomputed, we say that the data is **materialized**
         - If it's computed on the fly, we say it's **virtual**
         
+
     ![pic](img/queryarchitecture-pic01.png)
         
 -----
@@ -28,7 +58,7 @@ An obvious goal of an information integration system is to be complete and accur
 - complete - no eligible record from the source should be absent in the target relation
 - accurate - all the entries in the integrated relation should be correct. 
 
-<le>
+<l e>
 
 - **Record Linkage problem** - Ensure that the set of data records that belong to a single entity are recognized, perhaps by 
 clustering the values of different attributes, or by using a set of matching rules so that we know how to deal with it
@@ -36,7 +66,7 @@ during the integration process.
     - Schema mapping problem is a combinatorial challenge. 
     - **Pay-as-you-go-model** - Only integrate sources that are needed when needed. 
     - Paper - [Using Probabilistic Information in Data Integration](http://www.vldb.org/conf/1997/P216.PDF)
-    
+  
 ----
 
 ###### Integration for Multichannel Analytics
@@ -46,7 +76,7 @@ that are anticipated, relevant and timely.
     - Is our product launch going well?
     - Is there an emerging product issue?
     - Where should the product team focus its development dollars?
-    
+  
 - **Data Fusion** - Find the values of data items from a source. 
 
 - **Source Selection**
@@ -68,4 +98,5 @@ that are anticipated, relevant and timely.
 > 5. What is a data item? Data that represents an aspect of a real-world entity.
 > 6. What is data fusion? Extracting the true data of a data item.
 > 7. What is the potetnail problem of having too many data sources? Too many data values.
+
 -----
